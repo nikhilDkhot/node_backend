@@ -1,0 +1,16 @@
+{
+  "name": "node-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "02-globals.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "nodemon": "^3.1.9"
+  }
+}
